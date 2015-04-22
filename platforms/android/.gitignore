@@ -15,3 +15,6 @@ out
 
 bin
 project.properties
+
+platforms/android/CordovaLib/project.properties
+platforms/android/project.properties
